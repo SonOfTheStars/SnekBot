@@ -1,0 +1,17 @@
+{
+  "Token": "NTg5MDA3MDA2MjU4NjkyMDk4.XQNayg._3wrw-AfnQTTdkowL73T7tvUOCY",
+  "ClientId": "589007006258692098",
+  "HelpString": "SnekBot Protection Module Help\npermitUser <userid> | Adds a permitted user that is able to execute SnekBot protection module commands.\nrevokeUser <userid> | Forbid user from being able to execute SnekBot protection module commands.\nsetChannelProtection <channelId> <noLink> <wordBl> <linkBl> | Sets the protection status of the given channel, using the given Flags(Flags are either 1 or 0 for On or Off). If all flags are 0, the protection is removed!\nsetMuteRole <roleId> | Sets the mute role in the bot config.\naddBlacklistedWord <word> | Adds a word to the blacklist.\nblacklistDomain <url> | Adds the specified URL to the instant ban list.",
+  "R_USER_NO_PERMIT": "You are not permitted to use this command!",
+  "R_USER_PERMIT_S": "User has been Permitted!",
+  "R_USER_PERMIT_F": "User is already Permitted!",
+  "R_USER_REVOKE_S": "User permission revoked!",
+  "R_USER_REVOKE_F": "User does not have this permission!",
+  "R_ROLE_SET_MUTE_S": "Muted role has been set!",
+  "R_ROLE_SET_MUTE_U": "Muted role has been updated with a new role!",
+  "R_ROLE_SET_MUTE_F": "The specified role is already the Muted role!",
+  "R_CHANNEL_PROTECTION_S": "Channel protection has been enabled!",
+  "R_CHANNEL_PROTECTION_U": "Channel protection settings updated!",
+  "R_CHANNEL_PROTECTION_D": "Channel protection has been disabled!",
+  "R_CHANNEL_PROTECTION_F": "Channel protection settings are already set this way!"
+}

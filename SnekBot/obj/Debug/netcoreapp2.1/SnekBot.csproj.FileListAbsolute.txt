@@ -1,0 +1,13 @@
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\SnekBot.deps.json
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\SnekBot.runtimeconfig.json
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\SnekBot.runtimeconfig.dev.json
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\SnekBot.dll
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.csprojAssemblyReference.cache
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.csproj.CoreCompileInputs.cache
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.AssemblyInfoInputs.cache
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.AssemblyInfo.cs
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\SnekBot.pdb
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.dll
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\obj\Debug\netcoreapp2.1\SnekBot.pdb
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\Data\Config.json
+C:\Users\s.wienecke\source\repos\SnekBot\SnekBot\bin\Debug\netcoreapp2.1\Data\Data.json
